@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="230b1442-dfda-45d9-8ba5-a321be3f6375" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cwrPnseectMW8d2XGkFsi1GuRk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/calc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/calc" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="230b1442-dfda-45d9-8ba5-a321be3f6375" name="Default Changelist" comment="" />
+      <created>1591450475000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591450475000</updated>
+    </task>
+    <task id="LOCAL-00001" summary="calculator and test">
+      <created>1591456208198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591456208198</updated>
+    </task>
+    <task id="LOCAL-00002" summary="openshift files">
+      <created>1591930344937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591930344937</updated>
+    </task>
+    <task id="LOCAL-00003" summary="openshift files">
+      <created>1591945913137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591945913137</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="calculator and test" />
+    <MESSAGE value="openshift files" />
+    <option name="LAST_COMMIT_MESSAGE" value="openshift files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="125" key="CommitChangelistDialog2" timestamp="1591945912953">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="433" y="125" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1591456208054" />
+    <state x="433" y="125" key="CommitChangelistDialog2/1680.23.1920.1057/0.23.1680.960@0.23.1680.960" timestamp="1591945912953" />
+    <state x="456" y="291" key="Vcs.Push.Dialog.v2" timestamp="1591930348243">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="456" y="290" key="Vcs.Push.Dialog.v2/0.23.1680.958@0.23.1680.958" timestamp="1591456218398" />
+    <state x="456" y="291" key="Vcs.Push.Dialog.v2/1680.23.1920.1057/0.23.1680.960@0.23.1680.960" timestamp="1591930348243" />
+    <state x="557" y="281" width="598" height="538" key="find.popup" timestamp="1591886227711">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="557" y="281" width="598" height="538" key="find.popup/0.23.1680.958@0.23.1680.958" timestamp="1591886227711" />
+    <state x="521" y="305" width="670" height="676" key="search.everywhere.popup" timestamp="1591454922184">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="521" y="305" width="670" height="676" key="search.everywhere.popup/0.23.1680.958@0.23.1680.958" timestamp="1591454922184" />
+  </component>
+</project>

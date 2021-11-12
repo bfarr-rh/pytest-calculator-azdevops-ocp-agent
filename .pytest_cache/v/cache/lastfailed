@@ -1,0 +1,6 @@
+{
+  "tests/test_addition.py": true,
+  "tests/test_addition.py::test_add": true,
+  "tests/test_addition.py::test_add_string": true,
+  "tests/test_calculator.py": true
+}
